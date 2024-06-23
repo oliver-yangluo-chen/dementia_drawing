@@ -1,6 +1,0 @@
-uvicorn
-fastapi
-pydantic
-PIL
-base64
-io
